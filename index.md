@@ -10,7 +10,7 @@ My GitHub page is http://github.com/IvanG3815.
 
 * Lab 7
 
-    Lab 7 was a lab that I enjoyed because it challenged me when it came to understanding how to implement the conditions for the parking example. The first few parking times were easily able to be implemented with the && and || operators. The last parking time was more complicated. To implement it my group had to use both the && and || operators to create one big if statement that satisfied the conditions. This lab taught me how to properly use && and || operators.
+    Lab 7 was a lab that I enjoyed because it challenged me when it came to understanding how to implement the conditions for the parking example. The first few parking times were easily able to be implemented with the (and) and (or) operators. The last parking time was more complicated. To implement it my group had to use both the (and) and (or) operators to create one big if statement that satisfied the conditions. This lab taught me how to properly use (and) and (or) operators.
 
 * Lab 5
 
